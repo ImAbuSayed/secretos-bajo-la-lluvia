@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-bajo-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Secretos bajo la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-bajo-la-lluvia/) |
+| **Get License** | [Commercial Licensing for Secretos bajo la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-bajo-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bailando en la sombra, tu cuerpo es mi perdición
+> Tus ojos me llaman, robando mi respiración
+> Secretos bajo la lluvia, encendiendo la pasión
+> Esta noche tú eres mía, mi más dulce tentación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
