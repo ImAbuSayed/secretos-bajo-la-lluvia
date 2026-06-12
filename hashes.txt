@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Secretos bajo la lluvia
+
+This log tracks the cryptographic history and versioning for the song **Secretos bajo la lluvia** (secretos-bajo-la-lluvia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:23:33.875987 | `v1` | `03835fab6b2d347e9b8dc9bb9591abe8d192a462e21b90700a9e370109cc9bce` | `10f9381cebea87a9123ee34538106cd5ec304b0d25fad6057aa7384e099723de` | `2026-06-13_secretos-bajo-la-lluvia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
